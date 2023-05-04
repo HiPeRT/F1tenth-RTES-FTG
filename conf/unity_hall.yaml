@@ -1,0 +1,13 @@
+# car parameters
+max_throttle: 0.99
+max_steer: 0.99
+
+# distance ranges
+long_distance: 10
+middle_distance: 5
+short_distance: 2
+
+# speed ranges
+high_speed: 10
+middle_speed: 4
+low_speed: 2

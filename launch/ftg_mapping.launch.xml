@@ -1,0 +1,8 @@
+<!-- -*- mode: XML -*- -->
+<launch>
+
+  <node pkg="ftg" exec="ftg_node" name="ftg_node" output="screen">
+    <param name="drive_param" value="$(find-pkg-share ftg)/conf/ftg_mapping.yaml"/>
+  </node>
+
+</launch>
