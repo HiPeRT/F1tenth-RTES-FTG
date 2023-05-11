@@ -36,7 +36,8 @@ obstacle_check: false
 
 straight_check: false
 
-steering_angle_weight: 0.90
+steering_angle_weight: 0.70
+# 0.90
 
 max_rate_of_change: 0.20
 k_accel : 0.004
